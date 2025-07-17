@@ -48,7 +48,7 @@ public class HelloServlet extends HttpServlet {
         out.println("</head>");
         out.println("<body>");
         out.println("<div class='card'>");
-        out.println("<h1>Hello, World!<br>I am Quanghuy1<br>11.07.2025</h1>");
+        out.println("<h1>Hello, World!<br>I am Quanghuy1<br>12.07.2025</h1>");
         out.println("<p>Extra from feature-jv1: I am a servlet, 19.07.2025 ehfiuwefuwufyweihfewgfuewhfuew!</p>");
         out.println("</div>");
         out.println("</body>");
