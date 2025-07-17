@@ -36,7 +36,7 @@ class HelloServletTest {
         String output = stringWriter.toString();
         assertTrue(output.contains("Hello, World!"));
         assertTrue(output.contains("Quanghuy"));
-        assertTrue(output.contains("11.07.2025"));
+        assertTrue(output.contains("19.07.2025"));
         assertTrue(output.contains("<html")); // Đảm bảo có cấu trúc HTML
     }
 }
